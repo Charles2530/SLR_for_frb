@@ -24,7 +24,7 @@ ResNet(2+1)D_model文件夹是搭建模型的源代码。（具体位于.\deploy
 
 手机上部署识别效果图:
 
-![image-20230517105205839](D:/coding_file/coding_desktop/blog/Charles2530.github.io/myBlog/source/image/frb_mobile.png)
+![image-20230517105205839](https://charles2530.github.io/image/frb_mobile.png)
 
 ### References
 
