@@ -1,0 +1,9 @@
+Logging to file...
+Dataset samples: 750
+######################Training Started######################
+epoch   1 | iteration    20 | Loss 0.845233 | Acc 85.71%
+epoch   1 | iteration    40 | Loss 0.825893 | Acc 85.71%
+epoch   1 | iteration    60 | Loss 0.690052 | Acc 85.71%
+epoch   1 | iteration    80 | Loss 0.463845 | Acc 100.00%
+Average Training Loss of Epoch 1: 0.849875 | Acc: 63.83%
+Average Validation Loss of Epoch 1: 0.417971 | Acc: 98.67%

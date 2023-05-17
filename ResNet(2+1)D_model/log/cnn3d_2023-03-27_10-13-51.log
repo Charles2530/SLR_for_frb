@@ -1,0 +1,25 @@
+Logging to file...
+Dataset samples: 750
+######################Training Started######################
+epoch   1 | iteration    20 | Loss 1.021741 | Acc 28.57%
+epoch   1 | iteration    40 | Loss 0.949261 | Acc 57.14%
+epoch   1 | iteration    60 | Loss 0.917658 | Acc 57.14%
+epoch   1 | iteration    80 | Loss 0.495486 | Acc 100.00%
+Average Training Loss of Epoch 1: 0.854467 | Acc: 64.67%
+Average Validation Loss of Epoch 1: 0.443810 | Acc: 93.33%
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration    20 | Loss 0.365112 | Acc 100.00%
+epoch   2 | iteration    40 | Loss 0.351923 | Acc 100.00%
+epoch   2 | iteration    60 | Loss 0.158880 | Acc 100.00%
+epoch   2 | iteration    80 | Loss 0.151631 | Acc 100.00%
+Average Training Loss of Epoch 2: 0.316035 | Acc: 95.83%
+Average Validation Loss of Epoch 2: 0.193435 | Acc: 97.33%
+####################Epoch 2 Model Saved#####################
+epoch   3 | iteration    20 | Loss 0.097232 | Acc 100.00%
+epoch   3 | iteration    40 | Loss 0.057221 | Acc 100.00%
+epoch   3 | iteration    60 | Loss 0.054823 | Acc 100.00%
+epoch   3 | iteration    80 | Loss 0.259349 | Acc 85.71%
+Average Training Loss of Epoch 3: 0.181428 | Acc: 96.83%
+Average Validation Loss of Epoch 3: 0.157447 | Acc: 96.67%
+####################Epoch 3 Model Saved#####################
+#####################Training Finished######################
